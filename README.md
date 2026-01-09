@@ -1,2 +1,2 @@
-# java-exercicios
-exercícios básicos que fiz em java aprendendo o curso de java do nélio alves pela udemy
+# Atividades — Java
+Aqui tem algumas atividades que fiz quando comecei o curso de java pelo Nélio Alves na Udemy. São básicos de calculadora, jokenpo, matriz, cadastro e etc.
